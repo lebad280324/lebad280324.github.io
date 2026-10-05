@@ -25,7 +25,7 @@ Tài liệu chính thức: https://docs.github.com/en/pages/getting-started-with
 - `assets/portrait.jpg`: ảnh chân dung.
 - `assets/CV_Le_Ba_Dung.pdf`: bản CV để tải xuống.
 
-Các kế hoạch kiến trúc, CI/CD và dự phòng được ghi là đề xuất. Phần AI thử nghiệm tại An Phát có trạng thái riêng. Phần học vấn trùng trong PDF nguồn đã được gộp thành một mục trên website.
+Kiến trúc hệ thống, CI/CD, sao lưu và dự phòng được ghi là kinh nghiệm đã sử dụng theo xác nhận của chủ hồ sơ. Phần AI thử nghiệm tại An Phát có trạng thái riêng. Phần học vấn trùng trong PDF nguồn đã được gộp thành một mục trên website.
 
 Địa chỉ GitHub Pages: https://lebad280324.github.io/
 
@@ -35,4 +35,4 @@ Nguồn phát hành: nhánh `codex/cv`, thư mục gốc. Khi sửa, cập nhậ
 
 ## Thiết kế hiện tại
 
-Tông xanh tím đậm, trắng ấm và cam đào. Dự án An Phát được đặt trước lịch sử làm việc. Sáu phân hệ có bộ lọc theo nhóm; menu điện thoại có điều khiển mở/đóng và hỗ trợ Escape. Giữ rõ trạng thái AI thử nghiệm, các phương án kiến trúc đề xuất và thông tin CV đã bỏ BI.
+Tông xanh tím đậm, trắng ấm và cam đào. Dự án An Phát được đặt trước lịch sử làm việc. Sáu phân hệ có bộ lọc theo nhóm; menu điện thoại có điều khiển mở/đóng và hỗ trợ Escape. Giữ rõ trạng thái AI thử nghiệm, kinh nghiệm kiến trúc và triển khai đã sử dụng và thông tin CV đã bỏ BI.
